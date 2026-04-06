@@ -4,3 +4,4 @@ console.log(v);
 console.log(b);
 
 console.log(v+b);
+console.log(v-b)
