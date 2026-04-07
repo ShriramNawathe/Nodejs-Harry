@@ -7,4 +7,8 @@ console.log(v+b);
 console.log(v-b)
 
 console.log(v*b);
-console.log(v/b);           
+console.log(v/b);
+
+let a=10
+a+=10
+console.log(a);
