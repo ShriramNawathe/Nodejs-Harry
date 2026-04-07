@@ -1,3 +1,4 @@
 const v=10;
 const s=10
-Console.log(v);
+console.log(v);
+console.log(v+s);
