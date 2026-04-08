@@ -12,3 +12,7 @@ console.log(v/b);
 let a=10
 a+=10
 console.log(a);
+
+let b=10
+b-=10
+console.log(b); 
