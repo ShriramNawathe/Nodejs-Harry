@@ -17,3 +17,4 @@ let b=10
 b-=10
 console.log(b); 
 console.log(a+b);
+console.log(a-b);
